@@ -1,0 +1,17 @@
+# Database drivers
+psycopg2==2.9.9
+psycopg2-binary==2.9.9
+
+# GUI (included in Python standard library)
+# tkinter
+
+# File processing
+openpyxl==3.1.2
+pandas==2.1.0
+
+# API and network
+requests==2.31.0
+paramiko==3.3.1  # For SFTP
+
+# Utilities
+python-dotenv==1.0.0 
